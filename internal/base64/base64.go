@@ -24,5 +24,5 @@ func EncodeUint64ToString(v uint64) string {
 }
 
 func DecodeString(src string) ([]byte, error) {
-	return base64.RawURLEncoding.DecodeString(src)
+	return base64.URLEncoding.DecodeString(src)
 }
