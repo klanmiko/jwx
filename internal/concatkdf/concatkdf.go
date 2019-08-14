@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"hash"
 
-	"github.com/lestrrat-go/jwx/buffer"
+	"github.com/klanmiko/jwx/buffer"
 )
 
 type KDF struct {

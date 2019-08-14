@@ -4,7 +4,7 @@ import (
 	"crypto/ecdsa"
 	"crypto/elliptic"
 	"encoding/json"
-	"github.com/lestrrat-go/jwx/buffer"
+	"github.com/klanmiko/jwx/buffer"
 	"github.com/pkg/errors"
 	"math/big"
 )

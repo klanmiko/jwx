@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/lestrrat-go/jwx/buffer"
-	"github.com/lestrrat-go/jwx/jwa"
-	"github.com/lestrrat-go/jwx/jwk"
+	"github.com/klanmiko/jwx/buffer"
+	"github.com/klanmiko/jwx/jwa"
+	"github.com/klanmiko/jwx/jwk"
 )
 
 // Errors used in JWE

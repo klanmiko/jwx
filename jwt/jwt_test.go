@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lestrrat-go/jwx/jwa"
-	"github.com/lestrrat-go/jwx/jws"
-	"github.com/lestrrat-go/jwx/jwt"
+	"github.com/klanmiko/jwx/jwa"
+	"github.com/klanmiko/jwx/jws"
+	"github.com/klanmiko/jwx/jwt"
 	"github.com/stretchr/testify/assert"
 )
 

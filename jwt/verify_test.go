@@ -4,14 +4,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lestrrat-go/jwx/jwt"
+	"github.com/klanmiko/jwx/jwt"
 	"github.com/stretchr/testify/assert"
 )
 
 func TestGHIssue10(t *testing.T) {
 	t.Run(jwt.IssuerKey, func(t *testing.T) {
 		t1 := jwt.New()
-		t1.Set(jwt.IssuerKey, "github.com/lestrrat-go/jwx")
+		t1.Set(jwt.IssuerKey, "github.com/klanmiko/jwx")
 
 		// This should succeed, because WithIssuer is not provided in the
 		// optional parameters
@@ -54,7 +54,7 @@ func TestGHIssue10(t *testing.T) {
 	})
 	t.Run(jwt.SubjectKey, func(t *testing.T) {
 		t1 := jwt.New()
-		t1.Set(jwt.SubjectKey, "github.com/lestrrat-go/jwx")
+		t1.Set(jwt.SubjectKey, "github.com/klanmiko/jwx")
 
 		// This should succeed, because WithSubject is not provided in the
 		// optional parameters

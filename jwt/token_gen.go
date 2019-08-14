@@ -4,7 +4,7 @@ package jwt
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/lestrrat-go/jwx/jwt/internal/types"
+	"github.com/klanmiko/jwx/jwt/internal/types"
 	"github.com/pkg/errors"
 	"time"
 )

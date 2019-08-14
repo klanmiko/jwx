@@ -1,8 +1,8 @@
 package jwt
 
 import (
-	"github.com/lestrrat-go/jwx/internal/option"
-	"github.com/lestrrat-go/jwx/jwa"
+	"github.com/klanmiko/jwx/internal/option"
+	"github.com/klanmiko/jwx/jwa"
 )
 
 type Option = option.Interface

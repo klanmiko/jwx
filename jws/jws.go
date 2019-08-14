@@ -30,10 +30,10 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/lestrrat-go/jwx/jwa"
-	"github.com/lestrrat-go/jwx/jwk"
-	"github.com/lestrrat-go/jwx/jws/sign"
-	"github.com/lestrrat-go/jwx/jws/verify"
+	"github.com/klanmiko/jwx/jwa"
+	"github.com/klanmiko/jwx/jwk"
+	"github.com/klanmiko/jwx/jws/sign"
+	"github.com/klanmiko/jwx/jws/verify"
 	"github.com/pkg/errors"
 )
 

@@ -1,7 +1,7 @@
 package verify
 
 import (
-	"github.com/lestrrat-go/jwx/jwa"
+	"github.com/klanmiko/jwx/jwa"
 	"testing"
 )
 

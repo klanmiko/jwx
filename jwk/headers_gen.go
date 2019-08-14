@@ -6,7 +6,7 @@ import (
 	"crypto/x509"
 	"fmt"
 
-	"github.com/lestrrat-go/jwx/jwa"
+	"github.com/klanmiko/jwx/jwa"
 	"github.com/pkg/errors"
 )
 

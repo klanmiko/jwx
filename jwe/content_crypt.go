@@ -1,8 +1,8 @@
 package jwe
 
 import (
-	"github.com/lestrrat-go/jwx/internal/debug"
-	"github.com/lestrrat-go/jwx/jwa"
+	"github.com/klanmiko/jwx/internal/debug"
+	"github.com/klanmiko/jwx/jwa"
 	"github.com/pkg/errors"
 )
 

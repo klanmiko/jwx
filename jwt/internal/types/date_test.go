@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lestrrat-go/jwx/jwt"
+	"github.com/klanmiko/jwx/jwt"
 )
 
 func TestDate(t *testing.T) {

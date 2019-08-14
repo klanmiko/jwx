@@ -16,8 +16,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/lestrrat-go/jwx/internal/base64"
-	"github.com/lestrrat-go/jwx/jwa"
+	"github.com/klanmiko/jwx/internal/base64"
+	"github.com/klanmiko/jwx/jwa"
 	"github.com/pkg/errors"
 )
 

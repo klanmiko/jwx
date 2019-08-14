@@ -6,10 +6,10 @@ import (
 	"encoding/json"
 	"net/url"
 
-	"github.com/lestrrat-go/jwx/buffer"
-	"github.com/lestrrat-go/jwx/internal/debug"
-	"github.com/lestrrat-go/jwx/jwa"
-	"github.com/lestrrat-go/jwx/jwk"
+	"github.com/klanmiko/jwx/buffer"
+	"github.com/klanmiko/jwx/internal/debug"
+	"github.com/klanmiko/jwx/jwa"
+	"github.com/klanmiko/jwx/jwk"
 	"github.com/pkg/errors"
 )
 
