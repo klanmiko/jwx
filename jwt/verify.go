@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/outsidedoorisbed/jwx/internal/option"
+	"github.com/outsidebedisdoor/jwx/internal/option"
 )
 
 const (

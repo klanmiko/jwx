@@ -10,8 +10,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/outsidedoorisbed/jwx/jwa"
-	"github.com/outsidedoorisbed/jwx/jws"
+	"github.com/outsidebedisdoor/jwx/jwa"
+	"github.com/outsidebedisdoor/jwx/jws"
 	"github.com/pkg/errors"
 )
 

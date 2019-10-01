@@ -15,8 +15,8 @@ import (
   "fmt"
   "time"
 
-  "github.com/outsidedoorisbed/jwx/jwa"
-  "github.com/outsidedoorisbed/jwx/jwt"
+  "github.com/outsidebedisdoor/jwx/jwa"
+  "github.com/outsidebedisdoor/jwx/jwt"
 )
 
 func ExampleSignAndParse() {
@@ -56,7 +56,7 @@ func ExampleSignAndParse() {
 
 func ExampleToken() {
   t := jwt.New()
-  t.Set(jwt.SubjectKey, `https://github.com/outsidedoorisbed/jwx/jwt`)
+  t.Set(jwt.SubjectKey, `https://github.com/outsidebedisdoor/jwx/jwt`)
   t.Set(jwt.AudienceKey, `Golang Users`)
   t.Set(jwt.IssuedAtKey, time.Unix(aLongLongTimeAgo, 0))
   t.Set(`privateClaimKey`, `Hello, World!`)

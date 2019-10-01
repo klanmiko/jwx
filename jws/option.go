@@ -1,8 +1,8 @@
 package jws
 
 import (
-	"github.com/outsidedoorisbed/jwx/internal/option"
-	"github.com/outsidedoorisbed/jwx/jws/sign"
+	"github.com/outsidebedisdoor/jwx/internal/option"
+	"github.com/outsidebedisdoor/jwx/jws/sign"
 )
 
 type Option = option.Interface

@@ -13,9 +13,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/outsidedoorisbed/jwx/internal/base64"
-	"github.com/outsidedoorisbed/jwx/jwa"
-	"github.com/outsidedoorisbed/jwx/jwk"
+	"github.com/outsidebedisdoor/jwx/internal/base64"
+	"github.com/outsidebedisdoor/jwx/jwa"
+	"github.com/outsidebedisdoor/jwx/jwk"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"
 )

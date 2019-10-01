@@ -6,9 +6,9 @@ import (
 	"crypto/rsa"
 	"fmt"
 
-	"github.com/outsidedoorisbed/jwx/internal/debug"
-	"github.com/outsidedoorisbed/jwx/jwa"
-	"github.com/outsidedoorisbed/jwx/jwe/aescbc"
+	"github.com/outsidebedisdoor/jwx/internal/debug"
+	"github.com/outsidebedisdoor/jwx/jwa"
+	"github.com/outsidebedisdoor/jwx/jwe/aescbc"
 	"github.com/pkg/errors"
 )
 

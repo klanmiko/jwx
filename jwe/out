@@ -24,7 +24,7 @@
 		
 	Error:		Received unexpected error "failed to crypt content: failed to fetch AEAD for AesContentCipher.encrypt: cipher: failed to create AES cipher for CBC: crypto/aes: invalid key size 48"
 		
-	Messages:	Encryoutsidedoorisbedssful
+	Messages:	Encryoutsidebedisdoorssful
 		
 FAIL
 exit status 1

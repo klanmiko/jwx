@@ -1,7 +1,7 @@
 package jwt_test
 
 import (
-	"github.com/outsidedoorisbed/jwx/jwt"
+	"github.com/outsidebedisdoor/jwx/jwt"
 	"testing"
 )
 

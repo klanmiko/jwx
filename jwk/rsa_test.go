@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/outsidedoorisbed/jwx/jwk"
+	"github.com/outsidebedisdoor/jwx/jwk"
 	"github.com/stretchr/testify/assert"
 )
 

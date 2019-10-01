@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"hash"
 
-	"github.com/outsidedoorisbed/jwx/buffer"
+	"github.com/outsidebedisdoor/jwx/buffer"
 )
 
 type KDF struct {

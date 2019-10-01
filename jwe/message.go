@@ -6,10 +6,10 @@ import (
 	"encoding/json"
 	"net/url"
 
-	"github.com/outsidedoorisbed/jwx/buffer"
-	"github.com/outsidedoorisbed/jwx/internal/debug"
-	"github.com/outsidedoorisbed/jwx/jwa"
-	"github.com/outsidedoorisbed/jwx/jwk"
+	"github.com/outsidebedisdoor/jwx/buffer"
+	"github.com/outsidebedisdoor/jwx/internal/debug"
+	"github.com/outsidebedisdoor/jwx/jwa"
+	"github.com/outsidebedisdoor/jwx/jwk"
 	"github.com/pkg/errors"
 )
 

@@ -4,7 +4,7 @@ import (
 	"crypto/ecdsa"
 	"crypto/rsa"
 
-	"github.com/outsidedoorisbed/jwx/jws/sign"
+	"github.com/outsidebedisdoor/jwx/jws/sign"
 )
 
 type Verifier interface {

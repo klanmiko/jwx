@@ -14,9 +14,9 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/outsidedoorisbed/jwx/internal/concatkdf"
-	"github.com/outsidedoorisbed/jwx/internal/debug"
-	"github.com/outsidedoorisbed/jwx/jwa"
+	"github.com/outsidebedisdoor/jwx/internal/concatkdf"
+	"github.com/outsidebedisdoor/jwx/internal/debug"
+	"github.com/outsidebedisdoor/jwx/jwa"
 	"github.com/pkg/errors"
 )
 

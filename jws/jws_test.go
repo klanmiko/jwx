@@ -12,14 +12,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/outsidedoorisbed/jwx/buffer"
-	"github.com/outsidedoorisbed/jwx/internal/ecdsautil"
-	"github.com/outsidedoorisbed/jwx/internal/rsautil"
-	"github.com/outsidedoorisbed/jwx/jwa"
-	"github.com/outsidedoorisbed/jwx/jwk"
-	"github.com/outsidedoorisbed/jwx/jws"
-	"github.com/outsidedoorisbed/jwx/jws/sign"
-	"github.com/outsidedoorisbed/jwx/jws/verify"
+	"github.com/outsidebedisdoor/jwx/buffer"
+	"github.com/outsidebedisdoor/jwx/internal/ecdsautil"
+	"github.com/outsidebedisdoor/jwx/internal/rsautil"
+	"github.com/outsidebedisdoor/jwx/jwa"
+	"github.com/outsidebedisdoor/jwx/jwk"
+	"github.com/outsidebedisdoor/jwx/jws"
+	"github.com/outsidebedisdoor/jwx/jws/sign"
+	"github.com/outsidebedisdoor/jwx/jws/verify"
 	"github.com/stretchr/testify/assert"
 )
 

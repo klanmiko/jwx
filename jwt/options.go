@@ -1,8 +1,8 @@
 package jwt
 
 import (
-	"github.com/outsidedoorisbed/jwx/internal/option"
-	"github.com/outsidedoorisbed/jwx/jwa"
+	"github.com/outsidebedisdoor/jwx/internal/option"
+	"github.com/outsidebedisdoor/jwx/jwa"
 )
 
 type Option = option.Interface

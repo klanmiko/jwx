@@ -1,7 +1,7 @@
 package verify
 
 import (
-	"github.com/outsidedoorisbed/jwx/jwa"
+	"github.com/outsidebedisdoor/jwx/jwa"
 	"testing"
 )
 

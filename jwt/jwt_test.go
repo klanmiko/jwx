@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/outsidedoorisbed/jwx/jwa"
-	"github.com/outsidedoorisbed/jwx/jws"
-	"github.com/outsidedoorisbed/jwx/jwt"
+	"github.com/outsidebedisdoor/jwx/jwa"
+	"github.com/outsidebedisdoor/jwx/jws"
+	"github.com/outsidebedisdoor/jwx/jwt"
 	"github.com/stretchr/testify/assert"
 )
 

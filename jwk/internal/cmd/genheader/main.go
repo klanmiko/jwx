@@ -147,7 +147,7 @@ func generateHeaders() error {
 		fmt.Fprintf(&buf, "\n%s", strconv.Quote(pkg))
 	}
 	fmt.Fprintf(&buf, "\n\n")
-	for _, pkg := range []string{"github.com/outsidedoorisbed/jwx/jwa", "github.com/pkg/errors"} {
+	for _, pkg := range []string{"github.com/outsidebedisdoor/jwx/jwa", "github.com/pkg/errors"} {
 		fmt.Fprintf(&buf, "\n%s", strconv.Quote(pkg))
 	}
 	fmt.Fprintf(&buf, "\n)")

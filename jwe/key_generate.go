@@ -7,9 +7,9 @@ import (
 	"encoding/binary"
 	"io"
 
-	"github.com/outsidedoorisbed/jwx/internal/concatkdf"
-	"github.com/outsidedoorisbed/jwx/jwa"
-	"github.com/outsidedoorisbed/jwx/jwk"
+	"github.com/outsidebedisdoor/jwx/internal/concatkdf"
+	"github.com/outsidebedisdoor/jwx/jwa"
+	"github.com/outsidebedisdoor/jwx/jwk"
 	"github.com/pkg/errors"
 )
 

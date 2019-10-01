@@ -30,10 +30,10 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/outsidedoorisbed/jwx/jwa"
-	"github.com/outsidedoorisbed/jwx/jwk"
-	"github.com/outsidedoorisbed/jwx/jws/sign"
-	"github.com/outsidedoorisbed/jwx/jws/verify"
+	"github.com/outsidebedisdoor/jwx/jwa"
+	"github.com/outsidebedisdoor/jwx/jwk"
+	"github.com/outsidebedisdoor/jwx/jws/sign"
+	"github.com/outsidebedisdoor/jwx/jws/verify"
 	"github.com/pkg/errors"
 )
 

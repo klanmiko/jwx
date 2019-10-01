@@ -4,8 +4,8 @@ import (
 	"crypto"
 	"encoding/json"
 	"fmt"
-	"github.com/outsidedoorisbed/jwx/internal/base64"
-	"github.com/outsidedoorisbed/jwx/jwa"
+	"github.com/outsidebedisdoor/jwx/internal/base64"
+	"github.com/outsidebedisdoor/jwx/jwa"
 	"github.com/pkg/errors"
 )
 

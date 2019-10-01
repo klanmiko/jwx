@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"math/big"
 
-	"github.com/outsidedoorisbed/jwx/buffer"
+	"github.com/outsidebedisdoor/jwx/buffer"
 	"github.com/pkg/errors"
 )
 

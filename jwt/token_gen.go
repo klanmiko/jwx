@@ -4,7 +4,7 @@ package jwt
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/outsidedoorisbed/jwx/jwt/internal/types"
+	"github.com/outsidebedisdoor/jwx/jwt/internal/types"
 	"github.com/pkg/errors"
 	"time"
 )
