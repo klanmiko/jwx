@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/klanmiko/jwx/internal/debug"
-	"github.com/klanmiko/jwx/internal/padbuf"
+	"github.com/outsidedoorisbed/jwx/internal/debug"
+	"github.com/outsidedoorisbed/jwx/internal/padbuf"
 	"github.com/pkg/errors"
 )
 

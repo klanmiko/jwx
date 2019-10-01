@@ -1,7 +1,7 @@
 package jwe
 
 import (
-	"github.com/klanmiko/jwx/internal/debug"
+	"github.com/outsidedoorisbed/jwx/internal/debug"
 	"github.com/pkg/errors"
 )
 

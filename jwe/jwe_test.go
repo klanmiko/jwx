@@ -9,9 +9,9 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/klanmiko/jwx/internal/rsautil"
-	"github.com/klanmiko/jwx/jwa"
-	"github.com/klanmiko/jwx/jwe"
+	"github.com/outsidedoorisbed/jwx/internal/rsautil"
+	"github.com/outsidedoorisbed/jwx/jwa"
+	"github.com/outsidedoorisbed/jwx/jwe"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -300,12 +300,12 @@ func TestHeaders(t *testing.T) {
 		"x5t#256": {Value: "x5t#256 blah"},
 		"crit":    {Value: []string{"crit blah"}},
 		"jku": {
-			Value:    "http://github.com/klanmiko/jwx",
-			Expected: &url.URL{Scheme: "http", Host: "github.com", Path: "/klanmiko/jwx"},
+			Value:    "http://github.com/outsidedoorisbed/jwx",
+			Expected: &url.URL{Scheme: "http", Host: "github.com", Path: "/outsidedoorisbed/jwx"},
 		},
 		"x5u": {
-			Value:    "http://github.com/klanmiko/jwx",
-			Expected: &url.URL{Scheme: "http", Host: "github.com", Path: "/klanmiko/jwx"},
+			Value:    "http://github.com/outsidedoorisbed/jwx",
+			Expected: &url.URL{Scheme: "http", Host: "github.com", Path: "/outsidedoorisbed/jwx"},
 		},
 	}
 

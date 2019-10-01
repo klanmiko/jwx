@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/klanmiko/jwx/internal/option"
+	"github.com/outsidedoorisbed/jwx/internal/option"
 )
 
 const (

@@ -16,8 +16,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/klanmiko/jwx/internal/base64"
-	"github.com/klanmiko/jwx/jwa"
+	"github.com/outsidedoorisbed/jwx/internal/base64"
+	"github.com/outsidedoorisbed/jwx/jwa"
 	"github.com/pkg/errors"
 )
 

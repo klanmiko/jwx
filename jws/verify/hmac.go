@@ -2,8 +2,8 @@ package verify
 
 import (
 	"crypto/hmac"
-	"github.com/klanmiko/jwx/jwa"
-	"github.com/klanmiko/jwx/jws/sign"
+	"github.com/outsidedoorisbed/jwx/jwa"
+	"github.com/outsidedoorisbed/jwx/jws/sign"
 	"github.com/pkg/errors"
 )
 

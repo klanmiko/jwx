@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/klanmiko/jwx/jwt"
+	"github.com/outsidedoorisbed/jwx/jwt"
 	"github.com/stretchr/testify/assert"
 )
 

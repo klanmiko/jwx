@@ -4,7 +4,7 @@ import (
 	"crypto/ecdsa"
 	"crypto/rsa"
 
-	"github.com/klanmiko/jwx/jwa"
+	"github.com/outsidedoorisbed/jwx/jwa"
 )
 
 type Signer interface {

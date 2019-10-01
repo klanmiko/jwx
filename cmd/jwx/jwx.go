@@ -9,8 +9,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/klanmiko/jwx/jwk"
-	"github.com/klanmiko/jwx/jws"
+	"github.com/outsidedoorisbed/jwx/jwk"
+	"github.com/outsidedoorisbed/jwx/jws"
 	"github.com/pkg/errors"
 )
 

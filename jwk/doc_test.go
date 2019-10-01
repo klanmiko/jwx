@@ -3,7 +3,7 @@ package jwk_test
 import (
 	"log"
 
-	"github.com/klanmiko/jwx/jwk"
+	"github.com/outsidedoorisbed/jwx/jwk"
 )
 
 func Example() {

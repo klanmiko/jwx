@@ -2,9 +2,9 @@ package jws_test
 
 import (
 	"encoding/json"
-	"github.com/klanmiko/jwx/jwa"
-	"github.com/klanmiko/jwx/jwk"
-	"github.com/klanmiko/jwx/jws"
+	"github.com/outsidedoorisbed/jwx/jwa"
+	"github.com/outsidedoorisbed/jwx/jwk"
+	"github.com/outsidedoorisbed/jwx/jws"
 	"reflect"
 	"testing"
 )

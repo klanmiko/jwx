@@ -2,8 +2,8 @@
 package jws
 
 import (
-	"github.com/klanmiko/jwx/jwa"
-	"github.com/klanmiko/jwx/jwk"
+	"github.com/outsidedoorisbed/jwx/jwa"
+	"github.com/outsidedoorisbed/jwx/jwk"
 	"github.com/pkg/errors"
 )
 

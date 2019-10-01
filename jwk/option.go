@@ -3,7 +3,7 @@ package jwk
 import (
 	"net/http"
 
-	"github.com/klanmiko/jwx/internal/option"
+	"github.com/outsidedoorisbed/jwx/internal/option"
 )
 
 type Option = option.Interface

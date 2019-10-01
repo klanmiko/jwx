@@ -8,10 +8,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/klanmiko/jwx/jwa"
-	"github.com/klanmiko/jwx/jws"
-	"github.com/klanmiko/jwx/jws/sign"
-	"github.com/klanmiko/jwx/jws/verify"
+	"github.com/outsidedoorisbed/jwx/jwa"
+	"github.com/outsidedoorisbed/jwx/jws"
+	"github.com/outsidedoorisbed/jwx/jws/sign"
+	"github.com/outsidedoorisbed/jwx/jws/verify"
 	"github.com/stretchr/testify/assert"
 )
 

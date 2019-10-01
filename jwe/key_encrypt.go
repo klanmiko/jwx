@@ -14,9 +14,9 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/klanmiko/jwx/internal/concatkdf"
-	"github.com/klanmiko/jwx/internal/debug"
-	"github.com/klanmiko/jwx/jwa"
+	"github.com/outsidedoorisbed/jwx/internal/concatkdf"
+	"github.com/outsidedoorisbed/jwx/internal/debug"
+	"github.com/outsidedoorisbed/jwx/jwa"
 	"github.com/pkg/errors"
 )
 

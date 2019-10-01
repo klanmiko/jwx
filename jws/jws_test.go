@@ -12,14 +12,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/klanmiko/jwx/buffer"
-	"github.com/klanmiko/jwx/internal/ecdsautil"
-	"github.com/klanmiko/jwx/internal/rsautil"
-	"github.com/klanmiko/jwx/jwa"
-	"github.com/klanmiko/jwx/jwk"
-	"github.com/klanmiko/jwx/jws"
-	"github.com/klanmiko/jwx/jws/sign"
-	"github.com/klanmiko/jwx/jws/verify"
+	"github.com/outsidedoorisbed/jwx/buffer"
+	"github.com/outsidedoorisbed/jwx/internal/ecdsautil"
+	"github.com/outsidedoorisbed/jwx/internal/rsautil"
+	"github.com/outsidedoorisbed/jwx/jwa"
+	"github.com/outsidedoorisbed/jwx/jwk"
+	"github.com/outsidedoorisbed/jwx/jws"
+	"github.com/outsidedoorisbed/jwx/jws/sign"
+	"github.com/outsidedoorisbed/jwx/jws/verify"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,8 +5,8 @@ import (
 	"crypto/rsa"
 	"log"
 
-	"github.com/klanmiko/jwx/jwa"
-	"github.com/klanmiko/jwx/jws"
+	"github.com/outsidedoorisbed/jwx/jwa"
+	"github.com/outsidedoorisbed/jwx/jws"
 )
 
 func ExampleSign_JWSCompact() {

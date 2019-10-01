@@ -1,7 +1,7 @@
 package sign
 
 import (
-	"github.com/klanmiko/jwx/jwa"
+	"github.com/outsidedoorisbed/jwx/jwa"
 	"github.com/pkg/errors"
 )
 
